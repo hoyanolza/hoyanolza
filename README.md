@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ## Que Sais-je?
+
+![profile](./../images/README/4585b152-51a3-455f-af58-f96fcda313b1.jpg)
+
 <!--
 **hoyanolza/hoyanolza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
